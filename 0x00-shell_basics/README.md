@@ -1,1 +1,1 @@
-This project describing the scrip pwd 
+This project describing the script pwd, ls 
